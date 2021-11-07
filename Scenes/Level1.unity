@@ -1764,7 +1764,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GoesUp: 0
   velocity: 100
-  Player: {fileID: 0}
+  Player: {fileID: 405913308}
 --- !u!1 &963086091
 GameObject:
   m_ObjectHideFlags: 0
