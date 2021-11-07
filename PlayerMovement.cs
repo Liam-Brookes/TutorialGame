@@ -12,7 +12,7 @@ public class PlayerMovement : MonoBehaviour
     private float xSpeed;
     private float ySpeed;
     public bool jumping, sprinting, grounded, dashing, readyToJump = true;
-    public float dashForce;
+    public float dashForce = 100;
     public float maxSpeed = 10;
     private float threshold = 0.01f;
     public float speed = 4500;
